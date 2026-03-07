@@ -1,17 +1,15 @@
 {
-	quest.0C93D7A607AB8B83.quest_desc: ["Pour revendiquer des chunks, ouvrez votre carte en appuyant sur &6M&r, puis cliquez sur l'icône &aClaim Map&r dans le coin supérieur gauche.\\n\\nPour revendiquer un chunk, cliquez gauche et faites glisser pour revendiquer.\\n\\nPour charger de force un chunk, maintenez la touche Maj/Shift enfoncée et cliquez gauche sur le chunk. Si cela est fait correctement, vous verrez des lignes à travers le chunk."]
-	quest.3708A4780ACEB34E.quest_desc: [
-		"Dans ce modpack, les quêtes sont facultatives. Les mods ne sont pas bloqués derrière l'achèvement de quêtes!"
-		""
-		"Les lignes de quêtes individuelles en dehors de la ligne principale des quêtes sont censées servir de guides pour les mods. Si vous souhaitez suivre la progression, assurez-vous de consulter la ligne principale des quêtes!"
-		""
-		"La plupart des quêtes dans le pack sont également créées par &2AlfredGG&r. Les quêtes demandent beaucoup de travail, donc si vous souhaitez le soutenir, vous pouvez cliquer sur son image de joueur ci-dessous!"
-	]
-	quest.3BC0A50886A3222B.quest_desc: ["ATM10 est un pack 'kitchensink' qui vous permet d'explorer le monde de Minecraft moddé à votre manière!\\n\\nSi vous avez des questions ou des problèmes, n'hésitez pas à rejoindre le discord d'ATM!"]
-	quest.3BC0A50886A3222B.title: "&dBienvenue dans All The Mods 10!"
-	quest.5AC1BE754210429E.quest_desc: ["Si vous souhaitez créer une équipe pour vous et vos amis, utilisez la commande &a/ftbteams party create (nom de l'équipe)&r pour créer l'équipe!"]
+	quest.0C93D7A607AB8B83.quest_desc: ["Pour claim des chunks, ouvre ta carte avec &6,&r, puis clique sur l’icône &aClaimed Chunks&r en haut à gauche.\\n\\nPour revendiquer un chunk, clique gauche et fais glisser pour le sélectionner.\\n\\nPour forcer le chargement d’un chunk, fais shift + clic gauche sur le chunk. Si cela fonctionne, tu verras des lignes apparaître sur le chunk."]
+	quest.3708A4780ACEB34E.quest_desc: ["Dans ce modpack, les quêtes sont facultatives. Les mods ne sont pas bloqués par les quêtes !\\n\\nLes chapitres individuels en dehors de la quête principale servent de guides pour les mods. Si tu veux suivre la progression, pense à consulter la &6quête principale&r !"]
+	quest.3BC0A50886A3222B.quest_desc: ["ATM10 est un modpack de type tout-en-un qui te permet d’explorer l’univers du Minecraft moddé à ta manière !\\n\\nSi tu as des questions ou des problèmes, n’hésite pas à rejoindre le Discord d’ATM !"]
+	quest.3BC0A50886A3222B.title: "&dBienvenue dans All The Mods 10 !"
+	quest.49EDAA2F57D3BF1D.quest_desc: ["Cette quête a été créée par le &6staff AllTheMods&r ou par un &2contributeur de la communauté&r pour être utilisée dans les modpacks AllTheMods.\\n\\nComme tous les packs &6AllTheMods&r sont sous licence &eAll Rights Reserved&r, cette quête ne peut pas être utilisée dans des packs publics non publiés par la &6AllTheMods Team&r sans autorisation explicite.\\n\\nCette quête est volontairement cachée. Si tu la vois, c’est que tu es en mode édition."]
+	quest.5AC1BE754210429E.quest_desc: ["Si tu veux créer une équipe pour toi et tes amis, utilise la commande &a/ftbteams party create (nom de l’équipe)&r pour créer l’équipe !"]
+	quest.7658C1C663394E85.quest_desc: ["Il existe plusieurs commandes utiles dans ATM. En voici quelques-unes :\\n\\n&e/sethome&r (nom du home) | Permet de définir un point de téléportation auquel tu peux revenir avec /home (nom). Exemple : /sethome ferme - puis téléporte-toi avec /home ferme.\\n\\n&e/spawn&r | Te téléporte au point de spawn de ton monde normal.\\n\\n&e/rtp&r | 'Téléportation aléatoire' te téléporte à un endroit aléatoire dans le monde.\\n\\nNote : Ces commandes ont des temps de recharge et des limites. Si tu veux les modifier, tu peux éditer le fichier de configuration situé ici :\\n\\n - Pour le solo | &osaves/(nom de la sauvegarde)/serverconfig/ftbessentials.snbt&r\\n\\n - Pour les serveurs | &oworld/serverconfig/ftbessentials.snbt&r"]
 	task.103C42C743E2A2DB.title: "Claims des chunks"
-	task.10A16F89D4AD238D.title: "Commandes Utiles"
-	task.4F13A02FB0055A62.title: "Créer une Équipe"
+	task.10A16F89D4AD238D.title: "Commandes utiles"
+	task.201F519941A2C7F4.title: "AllRightsReserved"
+	task.2C816285392535F0.title: "AllRightsReserved"
+	task.4F13A02FB0055A62.title: "Créer une équipe"
 	task.52BB142F044075B4.title: "Quêtes"
 }
