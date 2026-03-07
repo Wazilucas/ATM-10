@@ -1,33 +1,58 @@
 {
-	quest.08D1CC753F6B4283.title: "Tuer le Gardien Ancien"
+	quest.08B60D8A25008CCC.quest_desc: ["Cette quête a été créée par le &6staff AllTheMods&r ou par un &2contributeur de la communauté&r pour les modpacks AllTheMods.\\n\\nLes packs &6AllTheMods&r sont sous licence &eTous droits réservés&r. Cette quête ne peut donc pas être utilisée dans des packs publics non publiés par la &6team AllTheMods&r sans autorisation explicite.\\n\\nCette quête est volontairement cachée. Si tu la vois, c'est que tu es en mode édition."]
+	quest.08D1CC753F6B4283.quest_desc: ["Le Grand gardien était considéré comme un troisième boss de Minecraft avant l’arrivée du Warden, mais je le considère plutôt comme un mini-boss. \\n\\nLes Grands gardiens apparaissent dans les Monuments océaniques. Trois d’entre eux y apparaissent et infligent Fatigue de minage à toute personne à proximité. \\n\\nSi tu veux récupérer les trésors du Monument océanique, tu devras les trouver et les tuer ! (Astuce : j’en ai toujours trouvé un dans la salle du haut, un à l’extrême gauche et un à l’extrême droite !) \\n\\nIls possèdent 80 cœurs et attaquent comme les Gardiens normaux, avec des lasers et des épines ! \\n\\nÀ leur mort, ils peuvent laisser tomber : des éponges, de la prismarine et leur déjeuner..."]
+	quest.08D1CC753F6B4283.title: "Tuer un Grand gardien"
+	quest.09C82CDDA800D8C9.quest_desc: ["Le Wither est le deuxième boss de Minecraft, celui-ci étant plus optionnel. \\n\\nTu devras construire le Wither pour le faire apparaître. En utilisant 4 sables des âmes en forme de T et en plaçant 3 crânes de squelettes Wither au-dessus, tu le feras apparaître ! \\n\\nIl possède 300 cœurs et vole en tirant des crânes de Wither sur les joueurs ou les créatures. \\n\\nLorsqu’il atteint la moitié de sa vie, il obtient un bouclier contre les projectiles et devra être tué avec une épée ou une hache. \\n\\nUne fois vaincu, il laissera tomber : une étoile du Nether, une chance d’obtenir une Withering Soul et de nombreux objets du mod Corail."]
 	quest.09C82CDDA800D8C9.title: "Tuer le Wither"
-	quest.0E20A9B79D1C6637.title: "Tuer le Gardien des Profondeurs"
-	quest.0F55D0B4D5094EDB.quest_desc: ["'En créant de nombreuses lignes de quêtes pour l'ATM7, le Villageois Marchand a pensé que ce serait amusant de me pousser constamment dans l'écran de quête.\\n\\nÉliminez-les. Tous.'\\n\\n- AlfredGG"]
-	quest.0F55D0B4D5094EDB.quest_subtitle: "'C'est personnel' - AlfredGG"
-	quest.0F55D0B4D5094EDB.title: "Tuer le Villageois Marchand et ses Ennuyeux Lamas"
-	quest.17F3AC15ADCFB175.quest_subtitle: "Tuer 5 Enderman"
-	quest.17F3AC15ADCFB175.title: "&l&9Prime dans l'End:&r&e Enderman"
-	quest.1F18B64C84C8809D.quest_subtitle: "Tuer 5 Araignées"
+	quest.0E20A9B79D1C6637.quest_desc: ["Le Warden est un boss ajouté dans la version 1.20. \\n\\nIl apparaît lorsque 3 Hurleurs sculk générés naturellement se déclenchent à la suite, ou lorsqu’un autre hurleur se déclenche après l’apparition d’un premier Warden. \\n\\nC’est la créature la plus puissante ajoutée par Minecraft, avec 500 cœurs et plus de 20 cœurs de dégâts par attaque. \\n\\nSes attaques incluent des coups physiques et des explosions soniques pour les ennemis à distance. \\n\\nSa seule faiblesse est sa cécité, mais comme Daredevil, cela a renforcé ses autres sens ! Si tu es proche, il peut te sentir, alors fais attention au bruit ! \\n\\nSi tu parviens à le tuer, il laissera tomber : des Catalyseurs de sculk, une Carapace de Warden et un Cœur des profondeurs."]
+	quest.0E20A9B79D1C6637.title: "Tuer le Warden"
+	quest.0F55D0B4D5094EDB.quest_desc: ["Pendant que je créais beaucoup des lignes de quêtes pour ATM7, le marchand ambulant trouvait drôle de me pousser constamment dans l’écran des quêtes.\\n\\n\"Éliminez-les. Tous.\"\\n\\n- AlfredGG \\n\\n\"Je confirme !\" \\n\\n- Toshiba"]
+	quest.0F55D0B4D5094EDB.quest_subtitle: "\"C'est personnel\" - AlfredGG"
+	quest.0F55D0B4D5094EDB.title: "Tuer le marchand ambulant et ses lamas agaçants"
+	quest.13BB75A7E1973488.quest_desc: ["La Monstruosité lunaire (Lunar Monstrosity) est le premier boss ajouté dans Eternal Starlight. \\n\\nIl se trouve au centre du Jardin maudit. Bonne chance pour le trouver et l’affronter !"]
+	quest.13BB75A7E1973488.title: "Tuer la Monstruosité lunaire"
+	quest.17F3AC15ADCFB175.title: "&l&9Prime dans l'End:&r&e Endermen"
+	quest.199932BF623A6785.quest_desc: ["Le Gardien oublié est le boss de l’Undergarden. \\n\\nIl repose dans la structure des Catacombes."]
+	quest.199932BF623A6785.title: "Tuer le Gardien oublié"
 	quest.1F18B64C84C8809D.title: "&l&9Prime dans l'Overworld:&r&e Araignées"
-	quest.2B05A29C62676EB2.quest_subtitle: "Tuer 5 Zombies"
+	quest.1F31EBF49079F9D3.quest_desc: ["Overhauled Creepers ajoute de nombreuses variantes de Creepers pour différents biomes. \\n\\nChacun possède des objets différents et certains sont même amicaux ! \\n\\nMais tous ont peur des chats..."]
+	quest.1F31EBF49079F9D3.title: "Creepers améliorés"
+	quest.2001998045ABC04C.quest_desc: ["Tangled Hatred est un mini-boss dans Eternal Starlight. \\n\\nIl apparaît dans les Jardins maudits avec la Monstruosité lunaire."]
+	quest.2001998045ABC04C.title: "Tuer une Tangled Hatred"
 	quest.2B05A29C62676EB2.title: "&l&9Prime dans l'Overworld:&r&e Zombies"
-	quest.3371F9248D403664.quest_subtitle: "Tuer 5 Wither Squelettes"
+	quest.2BD077EFE77B8EBB.quest_desc: ["Les zombies ont différentes variantes qui apparaissent dans d’autres biomes. \\n\\nMomifié : apparaissent dans les déserts. \\nNoyé : apparaissent sous l’eau. \\nGelid : apparaissent dans les biomes froids. \\nFeuillu : apparaissent dans les jungles."]
+	quest.2BD077EFE77B8EBB.title: "Variantes de zombies"
+	quest.2CA9394459C24012.quest_desc: ["Les Bêtes putréfiées sont des mini-boss qui apparaissent un peu partout dans l’Undergarden."]
+	quest.2CA9394459C24012.title: "Tuer une Bête putréfiée"
 	quest.3371F9248D403664.title: "&l&cPrime dans le Nether:&r&e Wither Squelettes"
-	quest.41C0948CD9D50322.quest_desc: [
-		"Ici, vous trouverez toutes les récompenses que vous pouvez obtenir en tuant des ennemis."
-		""
-		"Cette page est en cours d'élaboration!"
-	]
-	quest.41C0948CD9D50322.quest_subtitle: "Tuer toutes ces choses"
-	quest.42822B1E8A53D051.quest_subtitle: "Tuer 5 Squelettes"
+	quest.3813F5C1760C3A79.quest_desc: ["Les Piglins barbares peuvent faire débat, mais je les considère comme des mini-boss. \\n\\nElles apparaissent dans les Bastions avec les Piglins normaux, mais ceux-ci sont hostiles et non neutres. Si tu en frappes un, tous les Piglins deviendront hostiles. \\n\\nIls possèdent 50 cœurs et attaquent avec une hache en or. \\n\\nIls ne laissent rien tomber et servent surtout d'obstacle dans les Bastions."]
+	quest.3813F5C1760C3A79.title: "Tuer un Piglin barbare"
+	quest.41C0948CD9D50322.quest_desc: ["Ici, tu trouveras toutes les récompenses que tu peux obtenir en éliminant des ennemis."]
+	quest.41C0948CD9D50322.quest_subtitle: "Tuer tout ce qui bouge"
+	quest.41C0948CD9D50322.title: "Tableau des primes"
 	quest.42822B1E8A53D051.title: "&l&9Prime dans l'Overworld:&r&e Squelettes"
-	quest.56DA46DC82F6665D.quest_subtitle: "Ce n'est même pas ma forme finale"
+	quest.56DA46DC82F6665D.quest_desc: ["La Chimère Wilden est un boss ajouté par Ars Nouveau et nécessaire pour progresser dans ce mod. \\n\\nElle doit être invoquée avec un rituel avant de pouvoir être combattue."]
 	quest.56DA46DC82F6665D.title: "Tuer la Chimère Wilden"
-	quest.5AC497F76A086A5C.quest_subtitle: "Tuer 5 Sorcières"
+	quest.570223A03231DF8C.quest_desc: ["Overhauled Endermen est similaire au mod Overhauled Creepers mais avec des Endermen ! \\n\\nTu trouveras ces Endermen dans différents biomes et chacun possède ses particularités."]
+	quest.570223A03231DF8C.title: "Endermen améliorés"
 	quest.5AC497F76A086A5C.title: "&l&9Prime dans l'Overworld:&r&e Sorcières"
-	quest.6141DE779232C8AA.quest_subtitle: "Tuer 5 Blazes"
 	quest.6141DE779232C8AA.title: "&l&cPrime dans le Nether:&r&e Blazes"
-	quest.728BE1816DA23DC0.title: "Tuer l'Ender Dragon"
-	quest.77FC692AC94D2EEF.quest_subtitle: "Tuer 5 Creepers"
+	quest.6827836C8E675A94.quest_desc: ["Les squelettes ont différentes variantes, comme les zombies. \\n\\nVagabond : apparaissent dans les biomes froids. \\nEmbourbé : apparaissent dans les marais et chambres d'épreuve. \\nCorail : apparaissent sous l’eau dans les récifs coralliens. \\nVerdoyant : apparaissent dans les jungles."]
+	quest.6827836C8E675A94.title: "Variantes de squelettes"
+	quest.6DCDD55786025911.quest_desc: ["Le Starlight golem est le second boss d’Eternal Starlight. \\n\\nIl se recharge dans la Forge des golems en attendant qu’un joueur vienne l’affronter."]
+	quest.6DCDD55786025911.title: "Tuer le Starlight golem"
+	quest.728BE1816DA23DC0.quest_desc: ["L’Ender Dragon est le boss qui protège l’End. \\n\\nLorsque tu entres dans un portail de l’End, tu arrives sur l’île où il apparaît. \\n\\nIl possède 200 cœurs et peut attaquer avec des boules de feu ou en te percutant. \\n\\nTu devras détruire les Cristaux de l’End car ils le soignent. \\n\\nUne fois vaincue, il laissera tomber plusieurs objets et beaucoup d’expérience."]
+	quest.728BE1816DA23DC0.title: "Tuer l’Ender Dragon"
+	quest.734411D931A8CDBF.quest_desc: ["Le Ravageur est un mini-boss qui apparaît seulement dans les raids les plus difficiles. \\n\\nEn tuant des pillards, tu peux obtenir l'effet Mauvais présage et déclencher un raid dans un village."]
+	quest.734411D931A8CDBF.title: "Tuer un Ravageur"
 	quest.77FC692AC94D2EEF.title: "&l&9Prime dans l'Overworld:&r&e Creepers"
+	task.00CBF98DE4E9CC90.title: "AllRightsReserved"
+	task.171FD27057746E80.title: "Tuer 1 Wither"
+	task.1809F1F9A3043683.title: "Tuer 1 Ender Dragon"
+	task.1D136D138EF82DA9.title: "Tuer 2 lamas du marchand ambulant"
+	task.2F28B803C75DA3B2.title: "Tuer 1 Grand gardien"
+	task.452B65E139D9E12D.title: "Tuer 1 Chimère Wilden"
+	task.596ABB45C0612AAF.title: "Tuer 1 Marchand ambulant"
+	task.65E53C9C5AE98B69.title: "AllRightsReserved"
+	task.69678CAC075C8EA5.title: "Tuer 1 Warden"
 }
